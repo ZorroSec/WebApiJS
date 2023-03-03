@@ -1,0 +1,20 @@
+{
+  "name": "webapijs",
+  "version": "1.0.0",
+  "description": "a web api made in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZorroSec/WebApiJS.git"
+  },
+  "author": "Zezao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZorroSec/WebApiJS/issues"
+  },
+  "homepage": "https://github.com/ZorroSec/WebApiJS#readme"
+}
